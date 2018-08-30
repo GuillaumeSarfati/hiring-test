@@ -6,20 +6,11 @@ L'utilisateur doit pouvoir :
 
 - Envoyer des messages
 - Recevoir des messages en temps réel
-- Consulter la liste des messages envoyer
+- Consulter la liste des messages envoyés
 
 Le code doit etre commenté
 
-Pour la simpliciter les messages envoyer seront uniquement en text
-
-Exemple d'un shemat du message
-```json
-{
-  "creationDate":
-  "ownerId":
-  "data":
-}
-```
+Pour la simplicité les messages envoyer seront uniquement en text
 
 ## Technos 
 
