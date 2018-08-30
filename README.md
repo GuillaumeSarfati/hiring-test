@@ -5,7 +5,7 @@
 L'utilisateur doit pouvoir :
 
 - Lire des message
-- Recevoir des messages
+- Recevoir des messages en temps réel
 - Envoyer des messages
 
 Le code doit etre commenté
@@ -20,3 +20,4 @@ Le code doit etre commenté
 - Utiliser Loopback coté serveur
 - Ecrire les tests
 - Ecrire la doc
+- 
